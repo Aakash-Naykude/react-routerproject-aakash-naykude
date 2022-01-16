@@ -1,4 +1,3 @@
-
 import { Box, Button } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
@@ -41,6 +40,21 @@ function Kids() {
       margin-left: 30%;
     }
   `;
+  const handleAddToBag = (id, pic, title, price) => {
+    const payload = {
+      product_id: id,
+      thumbnail: pic,
+      title: title,
+      price: price,
+    };
+    fetch("http://localhost:3001/bag", {
+      method: "POST",
+      body: JSON.stringify(payload),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    }).then(alert("Added successfully"));
+  };
   return (
     <div>
       <Div>
@@ -50,7 +64,13 @@ function Kids() {
               <img src={e.thumbnail} alt="imgs" />
               <h5>{e.title}</h5>
               <p>{e.price}</p>
-              <Button colorScheme="teal" variant="outline">
+              <Button
+                onClick={() =>
+                  handleAddToBag(e.product_id, e.thumbnail, e.title, e.price)
+                }
+                colorScheme="teal"
+                variant="outline"
+              >
                 Add to bag
               </Button>
             </Box>

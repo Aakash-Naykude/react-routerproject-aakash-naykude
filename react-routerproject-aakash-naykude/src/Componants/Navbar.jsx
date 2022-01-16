@@ -6,13 +6,13 @@ function Navbar() {
   const Div = styled.div`
     height: 100px;
     margin-top: -15px;
-    position: fixed;
+    position: -webkit-sticky;
+    position: sticky;
     width: 100%;
-    background-color: white;
     display: flex;
     div {
       display: flex;
-      margin-left: 18%;
+      margin-left: 20%;
     }
     .width {
       margin-top: 10%;
@@ -40,9 +40,16 @@ function Navbar() {
       <div>
         <p className="width">Tanner Goods</p>
         <p className="width">Mazama Wares</p>
-        <p className="width">Apparel</p>
-        <p className="width">Featured</p>
-        <p className="width">End of Season Sale</p>
+
+        <p className="width">
+          <Link to={"/contact"}>Contact Us</Link>
+        </p>
+        <p className="width">
+          <Link to={"/about"}>About Us</Link>
+        </p>
+        <p className="width">
+          <Link to={"/faq"}>FAQ</Link>
+        </p>
       </div>
       <div>
         <Link className="icons" to={"/"}>

@@ -131,7 +131,9 @@
       "extracted_price": 15.99,
       "rating": 4,
       "reviews": 155,
-      "extensions": ["SALE"],
+      "extensions": [
+        "SALE"
+      ],
       "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIkyKIvh6l9cpHXsOCjqXGmolD6yhUHPzKSNCMGfnPzjudxoK3UkWvQrjEokSDTz-klJDYhsw&usqp=CAE",
       "tag": "SALE",
       "delivery": "Free delivery by Jan 24 & Free 90-day returns"
@@ -414,7 +416,9 @@
       "rating": 3.7,
       "reviews": 87,
       "snippet": "For a more laid-back take on an everyday chic staple, add the Long-Sleeve Button-Down Boyfriend Shirt from A New Day to your ...",
-      "extensions": ["EXTRA 30% OFF"],
+      "extensions": [
+        "EXTRA 30% OFF"
+      ],
       "thumbnail": "https://serpapi.com/searches/61e318fc607393520b8b9993/images/52f3854841f061d9b3b14e7b00d168d596ac32ed0c9cec593dad284d421e7bcc.webp",
       "tag": "EXTRA 30% OFF",
       "delivery": "Google Guarantee · Free 365-day returns"
@@ -516,7 +520,9 @@
       "rating": 3.8,
       "reviews": 26,
       "snippet": "Add a handcrafted look to your closet with this Long Sleeve Embroidered Dress from Knox Rose . This midi dress features a ...",
-      "extensions": ["EXTRA 30% OFF"],
+      "extensions": [
+        "EXTRA 30% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSKej4K1VxdwnOVbAttSNfUJyrRpBBEfr0ckYcJLzdp1ik3iWu8_0CFt-2UIYr6m7OL67bbyqkk-Z9qkiTnrspHyfIINmgFMOCIAuewi4fMYKGRDJ8dUEQ5&usqp=CAE",
       "tag": "EXTRA 30% OFF",
       "delivery": "Google Guarantee · Free 365-day returns"
@@ -592,7 +598,9 @@
       "rating": 4.8,
       "reviews": 20,
       "snippet": "Fashion, Dresses- The drop waist silhouette is cool and current, while the loose fitting V-neck body balances out the ...",
-      "extensions": ["LOW PRICE"],
+      "extensions": [
+        "LOW PRICE"
+      ],
       "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ50Mb5lzyfIvcQY5zPSRsl6O4ZW_mAks1YZE-kjs88ys1KSWCW7LR7m80O-FNC1i76_5rirL38wCA8sheaJUjw_-FIiCrDxlb2BMivt1VJ&usqp=CAE",
       "tag": "LOW PRICE",
       "delivery": "Delivery by Thu, Jan 27"
@@ -633,7 +641,9 @@
       "rating": 5,
       "reviews": 1,
       "snippet": "Fashion, Loungewear- There's nothing better than pretty loungewear! This laid-back dress gives off cozy vibes with added ...",
-      "extensions": ["LOW PRICE"],
+      "extensions": [
+        "LOW PRICE"
+      ],
       "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRbSxgbmfLD8leorFYVh8JE2Dd8lgkaKBoUhrcKIerKWYdSMCKy-8U6O_dm_b8HXxdrGbSTNLR8uaCcrTZPvh_k9tVntlAohJ30rq8JTtrk&usqp=CAE",
       "tag": "LOW PRICE",
       "delivery": "Delivery by Thu, Jan 27"
@@ -657,7 +667,9 @@
       "price": "$33.95",
       "extracted_price": 33.95,
       "snippet": "Country Girl Women's Hoodie Smell of Diesel | Hoodie from Country Girl Clothing Store | A softer feel and an easy fit, Pouch ...",
-      "extensions": ["EXTRA 25% OFF"],
+      "extensions": [
+        "EXTRA 25% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSaesmb4mfAAvlZYvmXE8uDHSv2B5h1Kiq9bCs3UEOSABSixMNOHBGi0qlEawh5Vu6nL45A3VP3wvlRFU03HsjnfjhWlMIcJlViBNuSg6w&usqp=CAE",
       "tag": "EXTRA 25% OFF",
       "delivery": "Delivery by Thu, Jan 27"
@@ -682,7 +694,9 @@
       "price": "$20.00",
       "extracted_price": 20,
       "snippet": "Pretty woman walking down the street in the AKIRA Label Pretty Lady Pleather Midi Dress With Cut Out! This dress is made from ...",
-      "extensions": ["LOW PRICE"],
+      "extensions": [
+        "LOW PRICE"
+      ],
       "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlRexGXbjTQkSD50RjCiEAnaAJCdmIalSAmpYbK4aMN4jFXsGw0AR2X3X97gQXMKNrTvHLvCZCdRdcydxuvnrgq-RSfzkCMp8UiWiZ0gcW-dnxZo2UJuwvFA&usqp=CAE",
       "tag": "LOW PRICE",
       "delivery": "$7.95 delivery"
@@ -711,7 +725,9 @@
       "rating": 4.2,
       "reviews": 11,
       "snippet": "Every woman deserves a stylish wardrobe. Kensie women’s clothing gives you just that. These pieces blend effortless ...",
-      "extensions": ["EXTRA 40% OFF"],
+      "extensions": [
+        "EXTRA 40% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCYW1WRrTgNVeqqo93FIeiKT7q4jteWt5x4BCZdM6fr3fGkdXjFGXWq9X2FEv4demCQkxvRmlHvWKhzu824Sb_rTDlFtOUQ3tZVgM9FiJIDTcEKZ463KC3&usqp=CAE",
       "tag": "EXTRA 40% OFF",
       "delivery": "Delivery by Thu, Jan 20"
@@ -754,7 +770,9 @@
       "rating": 4.1,
       "reviews": 107,
       "snippet": "Add some polished flair to your fall wardrobe with the Long-Sleeve Rib-Knit Sweater Dress from A New Day . A midweight fabric ...",
-      "extensions": ["EXTRA 30% OFF"],
+      "extensions": [
+        "EXTRA 30% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_cx_W6GdHgcS8v2w7kM4NqJusdC_OBXeTCMS_LL0OP9iNhXYHwcMR14pCt8ZQP7u0WgQ8_3bo3v7doGVpbUp-mkRTnWU6lnRZ0zPjGSWctQ-hHPjdG2D9EA&usqp=CAE",
       "tag": "EXTRA 30% OFF",
       "delivery": "Google Guarantee · Free 365-day returns"
@@ -875,7 +893,9 @@
       "price": "$18.00",
       "extracted_price": 18,
       "snippet": "A perfect solid color kids short-sleeve dress with pockets. This dress is 60% cotton and OEKO-Tex Standard 100 certified ...",
-      "extensions": ["20% OFF"],
+      "extensions": [
+        "20% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzXK1k9MNZde3vDa0GURbSETNDRXWiUgA83Mxssh8dl8jqEzoTlBO2W2u2dk1V8tRBtPVuuqjA&usqp=CAE",
       "tag": "20% OFF",
       "delivery": "Delivery by Mon, Jan 31"
@@ -910,7 +930,9 @@
       "price": "$12.00",
       "extracted_price": 12,
       "snippet": "This long sleeve dress is the perfect casual, 100% cotton dress for little girls, the perfect casual cotton long sleeve dress ...",
-      "extensions": ["20% OFF"],
+      "extensions": [
+        "20% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUPO_0Qnvw_wxi0hW0wIQO0fiHydBL9VXhZW_H2hFldg7X6r6XZO6fRyCatg6my4hT8OOQFKE&usqp=CAE",
       "tag": "20% OFF",
       "delivery": "Delivery by Mon, Jan 31"
@@ -960,7 +982,11 @@
       "price": "$20.00",
       "extracted_price": 20,
       "snippet": "LOT TODDLER CLOTHES 2T + assorted sizes and brands some used and some new. Everything pictured 25+ items included easy up ...",
-      "extensions": ["Nike", "Toddler", "Boys'"],
+      "extensions": [
+        "Nike",
+        "Toddler",
+        "Boys'"
+      ],
       "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSRUJe5TfYCrizozFeVqQASszWcxoLk-EpahuPWN0tXDtAtdsFrWjHMA-OxQkM&usqp=CAE",
       "delivery": "Free delivery"
     },
@@ -1054,7 +1080,9 @@
       "price": "$18.00",
       "extracted_price": 18,
       "snippet": "Limited-edition heart print leggings are here!",
-      "extensions": ["20% OFF"],
+      "extensions": [
+        "20% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROZCA8BRT6X6uqfYqECsOykMuOkjyFZA6f9on1CdbP29DxGzxCCFPNuRnMk3g8tfP69BVl6wY&usqp=CAE",
       "tag": "20% OFF",
       "delivery": "Delivery by Mon, Jan 31"
@@ -1133,7 +1161,9 @@
       "price": "$9.50",
       "extracted_price": 9.5,
       "snippet": "Did you hear the one about rainbow sleeves? It's long. 100% combed cotton slub more textured than our jersey tees, this soft ...",
-      "extensions": ["20% OFF"],
+      "extensions": [
+        "20% OFF"
+      ],
       "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSnYqhpKwfKPsx-iDQCCK05ziyLj7BiY7p0HKGsbEzwqAf9vveDgQFcvMC2uAVLB3u1DiZrB80&usqp=CAE",
       "tag": "20% OFF",
       "delivery": "Delivery by Mon, Jan 31"
@@ -1146,7 +1176,9 @@
       "price": "$16.66",
       "extracted_price": 16.66,
       "snippet": "Your little buddy will love rocking this Vans long-sleeve tee featuring an awesome pattern. Your little buddy will love ...",
-      "extensions": ["LOW PRICE"],
+      "extensions": [
+        "LOW PRICE"
+      ],
       "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxdrSsOQJ5EYdx6YYeri8rYIQCVcyg2lMorl0s-W6conEVKRzJExJ4Oz44ZBZOHBJ6f_OikNfO&usqp=CAE",
       "tag": "LOW PRICE",
       "delivery": "$8.95 delivery"
@@ -1174,6 +1206,47 @@
       "snippet": "Sleeveless dress in cotton jersey with a printed pattern. Gathered seam at waist and flared skirt.",
       "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFiD_gROMBTiqY2_sCsNkjKnqCwlk4J4l69u3NUcFzzlM8VaQIP4rHGo_tlw&usqp=CAE",
       "delivery": "Delivery by Mon, Jan 24"
+    }
+  ],
+  "bag": [
+    {
+      "product_id": "150103285094223092",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTz_iXLgxSVehHPER98FdeZ164k3bohdqkgs8oeQthJ_jq3OszwenCgEnqwmNn8oE4ge7l3Plo&usqp=CAE",
+      "title": "Men Shirt Casual Totem Print Long Sleeve Shirt Clothing Online,Multicolor,M,Fall ...",
+      "price": "$22.99",
+      "id": 1
+    },
+    {
+      "product_id": "11284656536638859606",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTIp8wavYAsbNjoIoe0uxXgs9ZRTySgEpCDI9xCochP2vsyG9I&usqp=CAE",
+      "title": "St. John's Bay Mens Henley Neck Long Sleeve Thermal Top | Gray | Regular Medium ...",
+      "price": "$12.74",
+      "id": 2
+    },
+    {
+      "thumbnail": "https://serpapi.com/searches/61e318fc607393520b8b9993/images/52f3854841f061d9b3b14e7b00d168d5d3c714991aecf8cd175545f3f5ab868c.webp",
+      "title": "Halter Backless High Slit Top Black L by Chicme",
+      "price": "$21.69",
+      "id": 3
+    },
+    {
+      "thumbnail": "https://serpapi.com/searches/61e318fc607393520b8b9993/images/52f3854841f061d9b3b14e7b00d168d5c6bc5bc61965088222da71b6faded49c.webp",
+      "title": "Shein Tropical Print Knot Top & Shorts, L Multicolor Tropical Polyester Polyester Boho Knot Double Button Women Tops",
+      "price": "$16.00",
+      "id": 4
+    },
+    {
+      "thumbnail": "https://serpapi.com/searches/61e3196a382427b388b929b5/images/ba55ce3fb40bd5f8e7b6d3e0cd238e80b6da3e0a58ed90867096bfb2790c218c.jpeg",
+      "title": "Shein Girls Crisscross Back Solid Dress,10Y",
+      "price": "$7.00",
+      "id": 5
+    },
+    {
+      "product_id": "7509359951067762147",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuIhzKQAVmlpXBLO12avuGrSGrZBgyQrXTvVZ87sTULYJ2Si9OtLuIzjr6QWrQgLXYkpJGvKs&usqp=CAE",
+      "title": "Men's Modern Fit Dress Shirt and Tie Set - Navy - Size Small",
+      "price": "$45.50",
+      "id": 6
     }
   ]
 }

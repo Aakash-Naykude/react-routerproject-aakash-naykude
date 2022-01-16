@@ -43,8 +43,8 @@ function Home() {
       position: absolute;
     }
     .right {
-      margin-left: -80px;
-      margin-top: 15%;
+      margin-left: 92%;
+      margin-top: -270px;
       width: 40px;
       height: 40px;
       img {
